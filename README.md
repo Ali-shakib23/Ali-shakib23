@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Ali Abdulwahid]!
+# 👋 Hi, I'm Ali Abdulwahid!
 ## 🚀 Software Engineer | AI Enthusiast | Accessibility Advocate 
 
 ### 🔹 About Me
