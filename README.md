@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Ali Abdulwahid]!
 ## 🚀 Software Engineer | AI Enthusiast | Accessibility Advocate 
 
 ### 🔹 About Me
@@ -10,10 +10,10 @@
 ---
 
 ### 🔹 Skills & Expertise
-🔹 **Programming:** Python, C#, JavaScript, Golang  
+🔹 **Programming:** Python, C#, JavaScript  
 🔹 **AI & Machine Learning:** TensorFlow, OpenCV, NLP  
-🔹 **Cloud & Web Development:** Azure, ASP.NET Core, Flask  
-🔹 **Embedded Systems:** ESP32, Raspberry Pi  
+🔹 **Cloud & Web Development:** Azure, ASP.NET Core, Angular 
+🔹 **Embedded Systems:** ESP32, Arduino 
 🔹 **Leadership & Community Engagement:** IEEE, Hult Prize, MEPI-SLP  
 
 ---
