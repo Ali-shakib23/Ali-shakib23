@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
+## 🚀 Software Engineer | AI Enthusiast | Accessibility Advocate 
 
-<!--
-**Ali-shakib23/Ali-shakib23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 About Me
+- Passionate about AI for social good & accessibility.
+- Developed AI-powered assistive devices & machine learning projects.
+- Selected for **MEPI-SLP**, **Hult Prize regional summit**, and **IEEE leadership**.
+- Committed to empowering tech communities in Yemen.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Skills & Expertise
+🔹 **Programming:** Python, C#, JavaScript, Golang  
+🔹 **AI & Machine Learning:** TensorFlow, OpenCV, NLP  
+🔹 **Cloud & Web Development:** Azure, ASP.NET Core, Flask  
+🔹 **Embedded Systems:** ESP32, Raspberry Pi  
+🔹 **Leadership & Community Engagement:** IEEE, Hult Prize, MEPI-SLP  
+
+---
+
+### 🔹 Featured Projects
+🔹 **[Smart Assistive System](GitHub Link)** - AI-powered device for visually impaired people.  
+🔹 **[Movie Recommendation System](GitHub Link)** - ML-based recommendation engine using Python & .NET API.  
+🔹 **[E-Commerce Platform](GitHub Link)** - Scalable online shopping system using ASP.NET Core.  
+🔹 **[Driving License System](GitHub Link)** - C#-based vehicle registration system.  
+🔹 **[JOPE: AI-Powered Disability Employment](GitHub Link)** - AI-driven job matching platform.  
+
+---
+
+### 📫 **Let's Connect!**
+🔗 [GitHub](GitHub Link) | [LinkedIn](LinkedIn Link) | 📧 [Email](Your Email)
