@@ -19,11 +19,11 @@
 ---
 
 ### 🔹 Featured Projects
-🔹 **[Smart Assistive System](GitHub Link)** - AI-powered device for visually impaired people.  
-🔹 **[Movie Recommendation System](GitHub Link)** - ML-based recommendation engine using Python & .NET API.  
-🔹 **[E-Commerce Platform](GitHub Link)** - Scalable online shopping system using ASP.NET Core.  
-🔹 **[Driving License System](GitHub Link)** - C#-based vehicle registration system.  
-🔹 **[JOPE: AI-Powered Disability Employment](GitHub Link)** - AI-driven job matching platform.  
+🔹 **[Smart Assistive System]** - AI-powered device for visually impaired people.  
+🔹 **[Movie Recommendation System]** - ML-based recommendation engine using Python & .NET API.  
+🔹 **[E-Commerce Platform]** - Scalable online shopping system using ASP.NET Core.  
+🔹 **[Driving License System]** - C#-based vehicle registration system.  
+🔹 **[JOPE: AI-Powered Disability Employment]** - AI-driven job matching platform.  
 
 ---
 
