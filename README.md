@@ -28,4 +28,4 @@
 ---
 
 ### 📫 **Let's Connect!**
-🔗 [GitHub](GitHub Link) | [LinkedIn](LinkedIn Link) | 📧 [Email](Your Email)
+🔗LinkedIn(https://www.linkedin.com/in/ali-abdulwahid-6a26841aa/) | 📧 [Email](alishakib2310@gmail.com)
