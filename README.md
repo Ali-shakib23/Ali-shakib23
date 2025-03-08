@@ -20,10 +20,10 @@
 
 ### 🔹 Featured Projects
 🔹 **[Smart Assistive System]** - AI-powered device for visually impaired people.  
-🔹 **[Movie Recommendation System]** - ML-based recommendation engine using Python & .NET API.  
-🔹 **[E-Commerce Platform]** - Scalable online shopping system using ASP.NET Core.  
-🔹 **[Driving License System]** - C#-based vehicle registration system.  
-🔹 **[JOPE: AI-Powered Disability Employment]** - AI-driven job matching platform.  
+🔹 **[https://github.com/Ali-shakib23/Movie-Recommendation](Movie Recommendation System)_** - ML-based recommendation engine using javascript , Python & Flask .  
+🔹 **[https://github.com/Ali-shakib23/ShoopingCart](E-Commerce source code)** - Scalable online shopping system using ASP.NET Core.  
+🔹 **[https://github.com/Ali-shakib23/DVLD_System](Driving Vehicle License system)** - C#-based vehicle registration system.  
+🔹 **[https://github.com/Ali-shakib23/Jope-Website](A job vacany website)** -job platform.  
 
 ---
 
